@@ -1,4 +1,4 @@
-# Acumula
+# ECONOMIZA AI
 
 Site privado para acompanhar **saldo disponível**, **gastos com almoço e janta** e **lucro (economia positiva)**.
 
